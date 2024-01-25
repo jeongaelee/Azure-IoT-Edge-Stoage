@@ -23,7 +23,7 @@ Azure IoT Edge는 디바이스에서 실행되는 코드를 클라우드에서 �
 
 ## High Level Architecture
   
-  <img src="./images/architecture_overview.png" width="640"/>
+  <img src="./images/architecture_overview.png" width="720"/>
 
 ## 사전 요구 사항 (필요 도구)
 

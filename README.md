@@ -29,7 +29,7 @@ Azure IoT Edge는 디바이스에서 실행되는 코드를 클라우드에서 �
 
 * Azure 구독
 * [Azure IoT Explorer 다운로드 및 설치](https://github.com/Azure/azure-iot-explorer/releases)
-* [Azure Storage Explorer 다움로드 및 설치] (https://azure.microsoft.com/ko-kr/features/storage-explorer/)
+* [Azure Storage Explorer 다운로드 및 설치](https://azure.microsoft.com/ko-kr/features/storage-explorer/)
 
 ## 실습 순서
 

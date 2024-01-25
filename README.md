@@ -12,7 +12,7 @@ Azure IoT Edge는 디바이스에서 실행되는 코드를 클라우드에서 �
 
 ## Hands-on Lab 소개
 
-본 실습에서는 Azure DevOps 프로젝트를 생성하여 Azure DevOps의 서비스 중에 Azure Repos와 Azure Pipelines을 이용하여 Azure에서 제공하는 Git Repository와 연동하여 Source Control을 관리하고, Build 및 배포 Pipe라인을 구성하고 수행합니다. 
+본 실습에서는 Azure IoT Hub를 생성하고 Azure IoT Edge 디바이스를 프로비저닝하고, Azure IoT Edge 모듈을 배포하고 모듈간의 메세지 라우팅에 대해서 실습합니다. Azure Blob Storage 모듈을 사용하여 IoT Edge 디바이스에서 생성된 데이터를 Blob Storage에 저장하는 방법을 학습합니다. 
 
 ## 사용 리소스 및 환경
   * Azure IoT Hub
